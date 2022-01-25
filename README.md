@@ -1,8 +1,8 @@
-## Hi there, I'm Takumi! 
+## Hi there, I'm Takumi! 👋
 
-- I'm a software engineer with a background in neuroengineering and academic neuroscience. I find both neural code and computer code to be fascinating (though the latter is easier to tinker with).
+- I'm a software engineer with a background in neuroengineering 🧠 and academic neuroscience 🧑‍🔬. I find both neural code and computer code to be fascinating (though the latter is easier to tinker with).
 
-- Away from the computer and the lab bench, I'm an avid reader and epicurean (wine and cocktail nerd, especially).
+- Away from the computer and the lab bench, I'm an avid reader 📚 and epicurean (wine 🍇 and cocktail 🍸 nerd, especially).
 
 - Questions? Comments? Just want to say hi? [I'd love to hear from you](mailto:takumi.otsuka@gmail.com).
 
