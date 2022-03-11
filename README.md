@@ -2,6 +2,8 @@
 
 - I'm a software engineer with a background in neuroengineering 🧠 and academic neuroscience 🧑‍🔬. I find both neural code and computer code to be fascinating (though the latter is easier to tinker with).
 
+- Currently working as a web-dev at [Lucid Motors](https://www.lucidmotors.com/).
+
 - I'm Japanese-American, and spent a decade in London, but I'm currently based out of NYC 🍎. 
 
 - Away from the computer and the lab bench, I'm an avid reader 📚 and epicurean (wine 🍇 and cocktail 🍸 nerd, especially).
